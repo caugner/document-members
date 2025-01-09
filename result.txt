@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
 
 111 URL
 111 activeElement
@@ -109,7 +109,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 onresume
 000 onvisibilitychange
 100 open
-000 origin
+111 origin
 000 pictureInPictureElement
 000 pictureInPictureEnabled
 111 plugins
