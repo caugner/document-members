@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/3.0.182.2 Safari/531.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.3 (KHTML, like Gecko) Chrome/4.0.223.11 Safari/532.3
 
 100 alinkColor
 100 all
