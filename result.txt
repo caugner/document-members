@@ -1,4 +1,4 @@
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
 
 111 URL
 111 activeElement
@@ -17,7 +17,7 @@ Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .N
 111 characterSet
 000 childElementCount
 000 children
-000 clear
+111 clear
 111 close
 111 compatMode
 000 contentType
@@ -81,7 +81,7 @@ Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .N
 000 hasStorageAccess
 111 head
 000 height
-000 hidden
+111 hidden
 111 images
 111 implementation
 111 importNode
@@ -141,7 +141,7 @@ Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .N
 000 timeline
 111 title
 000 tooltipNode
-000 visibilityState
+111 visibilityState
 111 vlinkColor
 000 wasDiscarded
 000 width
