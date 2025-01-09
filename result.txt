@@ -1,23 +1,6 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0
 
-100 alinkColor
 100 all
-100 bgColor
 100 captureEvents
 100 clear
-100 close
-100 designMode
-100 domain
-100 execCommand
-100 fgColor
-100 linkColor
-100 open
-100 queryCommandEnabled
-100 queryCommandIndeterm
-100 queryCommandState
-100 queryCommandSupported
-100 queryCommandValue
 100 releaseEvents
-100 vlinkColor
-100 write
-100 writeln
