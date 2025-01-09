@@ -1,4 +1,4 @@
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/531.22.7 (KHTML, like Gecko) Version/4.0.5 Safari/531.22.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
 
 111 URL
 100 activeElement
@@ -13,7 +13,7 @@ Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/531.22.7 (K
 111 body
 100 captureEvents
 000 caretPositionFromPoint
-000 caretRangeFromPoint
+111 caretRangeFromPoint
 111 characterSet
 000 childElementCount
 000 children
@@ -79,7 +79,7 @@ Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/531.22.7 (K
 111 getSelection
 100 hasFocus
 000 hasStorageAccess
-000 head
+111 head
 100 height
 000 hidden
 111 images
