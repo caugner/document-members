@@ -1,7 +1,7 @@
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1) Gecko/20061010 Firefox/2.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0
 
 100 URL
-000 activeElement
+111 activeElement
 111 adoptNode
 000 adoptedStyleSheets
 100 alinkColor
@@ -49,10 +49,10 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1) Gecko/20061010 Firefox
 111 documentURI
 000 documentURIObject
 100 domain
-000 elementFromPoint
+111 elementFromPoint
 000 elementsFromPoint
 100 embeds
-000 enableStyleSheetsForSet
+111 enableStyleSheetsForSet
 111 evaluate
 100 execCommand
 100 execCommandShowHelp
@@ -72,12 +72,12 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1) Gecko/20061010 Firefox
 000 getAnimations
 111 getBoxObjectFor
 111 getElementById
-000 getElementsByClassName
+111 getElementsByClassName
 100 getElementsByName
 111 getElementsByTagName
 111 getElementsByTagNameNS
 100 getSelection
-000 hasFocus
+111 hasFocus
 000 hasStorageAccess
 000 head
 100 height
@@ -87,7 +87,7 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1) Gecko/20061010 Firefox
 111 importNode
 000 lastElementChild
 111 lastModified
-000 lastStyleSheetSet
+111 lastStyleSheetSet
 100 linkColor
 100 links
 000 loadOverlay
@@ -115,7 +115,7 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1) Gecko/20061010 Firefox
 100 plugins
 000 pointerLockElement
 000 popupNode
-000 preferredStyleSheetSet
+111 preferredStyleSheetSet
 000 prepend
 100 queryCommandEnabled
 100 queryCommandIndeterm
@@ -135,8 +135,8 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1) Gecko/20061010 Firefox
 100 routeEvent
 000 scripts
 000 scrollingElement
-000 selectedStyleSheetSet
-000 styleSheetSets
+111 selectedStyleSheetSet
+111 styleSheetSets
 111 styleSheets
 000 timeline
 111 title
