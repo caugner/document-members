@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36 OPR/40.0.2308.54
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36 OPR/41.0.2353.46
 
 111 URL
 111 activeElement
@@ -7,7 +7,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 100 alinkColor
 100 all
 111 anchors
-000 append
+111 append
 111 applets
 100 bgColor
 111 body
@@ -116,7 +116,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 111 pointerLockElement
 000 popupNode
 000 preferredStyleSheetSet
-000 prepend
+111 prepend
 111 queryCommandEnabled
 111 queryCommandIndeterm
 111 queryCommandState
