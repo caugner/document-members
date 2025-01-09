@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36 OPR/15.0.1147.153
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 OPR/18.0.1284.68
 
 111 URL
 100 activeElement
@@ -15,8 +15,8 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.
 000 caretPositionFromPoint
 111 caretRangeFromPoint
 111 characterSet
-000 childElementCount
-000 children
+111 childElementCount
+111 children
 100 clear
 100 close
 111 compatMode
@@ -29,7 +29,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.
 111 createDocumentFragment
 111 createElement
 111 createElementNS
-111 createEntityReference
+000 createEntityReference
 111 createEvent
 111 createExpression
 111 createNSResolver
@@ -40,7 +40,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.
 000 createTouch
 000 createTouchList
 111 createTreeWalker
-000 currentScript
+111 currentScript
 111 defaultView
 100 designMode
 100 dir
@@ -62,7 +62,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.
 000 featurePolicy
 100 fgColor
 000 fileSize
-000 firstElementChild
+111 firstElementChild
 000 fonts
 111 forms
 000 fragmentDirective
@@ -80,12 +80,12 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.
 100 hasFocus
 000 hasStorageAccess
 111 head
-100 height
+000 height
 000 hidden
 111 images
 111 implementation
 111 importNode
-000 lastElementChild
+111 lastElementChild
 111 lastModified
 000 lastStyleSheetSet
 100 linkColor
@@ -144,7 +144,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.
 000 visibilityState
 100 vlinkColor
 000 wasDiscarded
-100 width
+000 width
 100 write
 100 writeln
 111 xmlEncoding
