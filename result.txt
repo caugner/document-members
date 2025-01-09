@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Mozilla/5.0 (Windows NT 5.2; rv:10.0) Gecko/20100101 Firefox/10.0
 
 100 URL
 111 activeElement
@@ -147,6 +147,6 @@ Mozilla/5.0 (Windows NT 5.2; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
 000 width
 100 write
 100 writeln
-111 xmlEncoding
-111 xmlStandalone
-111 xmlVersion
+000 xmlEncoding
+000 xmlStandalone
+000 xmlVersion
