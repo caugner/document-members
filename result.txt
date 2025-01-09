@@ -1,6 +1,6 @@
-Mozilla/5.0 (Windows NT 5.2; rv:18.0) Gecko/20100101 Firefox/18.0
+Mozilla/5.0 (Windows NT 5.2; rv:19.0) Gecko/20100101 Firefox/19.0
 
-100 URL
+111 URL
 111 activeElement
 111 adoptNode
 000 adoptedStyleSheets
@@ -19,7 +19,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:18.0) Gecko/20100101 Firefox/18.0
 000 children
 100 clear
 100 close
-100 compatMode
+111 compatMode
 111 contentType
 100 cookie
 111 createAttribute
