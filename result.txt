@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:61.0) Gecko/20100101 Firefox/61.0
 
 111 URL
 111 activeElement
@@ -6,9 +6,9 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 000 adoptedStyleSheets
 100 alinkColor
 100 all
-100 anchors
+111 anchors
 111 append
-100 applets
+111 applets
 100 bgColor
 111 body
 100 captureEvents
@@ -51,7 +51,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 100 domain
 111 elementFromPoint
 111 elementsFromPoint
-100 embeds
+111 embeds
 111 enableStyleSheetsForSet
 111 evaluate
 100 execCommand
@@ -64,7 +64,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 000 fileSize
 111 firstElementChild
 111 fonts
-100 forms
+111 forms
 000 fragmentDirective
 000 fullscreen
 000 fullscreenElement
@@ -79,17 +79,17 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 111 getSelection
 111 hasFocus
 000 hasStorageAccess
-100 head
+111 head
 000 height
 111 hidden
-100 images
+111 images
 111 implementation
 111 importNode
 111 lastElementChild
 111 lastModified
 111 lastStyleSheetSet
 100 linkColor
-100 links
+111 links
 000 loadOverlay
 111 location
 111 mozSetImageElement
@@ -112,7 +112,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 000 origin
 000 pictureInPictureElement
 000 pictureInPictureEnabled
-100 plugins
+111 plugins
 111 pointerLockElement
 000 popupNode
 111 preferredStyleSheetSet
@@ -133,7 +133,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 000 replaceChildren
 000 requestStorageAccess
 000 routeEvent
-100 scripts
+111 scripts
 111 scrollingElement
 111 selectedStyleSheetSet
 111 styleSheetSets
