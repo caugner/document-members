@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:67.0) Gecko/20100101 Firefox/67.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0
 
 111 URL
 111 activeElement
@@ -21,7 +21,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:67.0) Gecko/20100101 Firefox/67.0
 100 close
 111 compatMode
 111 contentType
-100 cookie
+111 cookie
 111 createAttribute
 111 createAttributeNS
 111 createCDATASection
