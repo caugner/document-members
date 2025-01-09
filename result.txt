@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
 
 111 URL
 111 activeElement
@@ -7,7 +7,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 100 alinkColor
 100 all
 100 anchors
-000 append
+111 append
 100 applets
 100 bgColor
 100 body
@@ -116,7 +116,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 000 pointerLockElement
 000 popupNode
 111 preferredStyleSheetSet
-000 prepend
+111 prepend
 100 queryCommandEnabled
 100 queryCommandIndeterm
 100 queryCommandState
