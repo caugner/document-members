@@ -1,4 +1,4 @@
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko
 
 111 URL
 111 activeElement
@@ -11,7 +11,7 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .
 111 applets
 111 bgColor
 111 body
-000 captureEvents
+111 captureEvents
 000 caretPositionFromPoint
 000 caretRangeFromPoint
 111 characterSet
@@ -61,7 +61,7 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .
 000 exitPointerLock
 000 featurePolicy
 111 fgColor
-111 fileSize
+000 fileSize
 000 firstElementChild
 000 fonts
 111 forms
@@ -129,7 +129,7 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .
 111 referrer
 000 registerElement
 111 releaseCapture
-000 releaseEvents
+111 releaseEvents
 000 replaceChildren
 000 requestStorageAccess
 000 routeEvent
