@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36 OPR/48.0.2685.32
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 OPR/49.0.2725.34
 
 111 URL
 111 activeElement
@@ -107,7 +107,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 111 onpointerlockerror
 111 onreadystatechange
 000 onresume
-000 onvisibilitychange
+111 onvisibilitychange
 111 open
 111 origin
 000 pictureInPictureElement
