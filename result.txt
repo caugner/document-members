@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (Windows NT 5.2; rv:14.0) Gecko/20100101 Firefox/14.0.1
 
 100 URL
 100 alinkColor
@@ -15,7 +15,6 @@ Mozilla/5.0 (Windows NT 5.2; rv:13.0) Gecko/20100101 Firefox/13.0
 100 domain
 100 embeds
 100 execCommand
-100 execCommandShowHelp
 100 fgColor
 100 forms
 100 getElementsByName
@@ -30,7 +29,6 @@ Mozilla/5.0 (Windows NT 5.2; rv:13.0) Gecko/20100101 Firefox/13.0
 100 queryCommandIndeterm
 100 queryCommandState
 100 queryCommandSupported
-100 queryCommandText
 100 queryCommandValue
 100 releaseEvents
 100 routeEvent
