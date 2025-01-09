@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
 
 111 URL
 111 activeElement
@@ -65,7 +65,7 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 111 firstElementChild
 111 fonts
 111 forms
-000 fragmentDirective
+111 fragmentDirective
 111 fullscreen
 111 fullscreenElement
 111 fullscreenEnabled
@@ -130,7 +130,7 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 000 registerElement
 000 releaseCapture
 111 releaseEvents
-000 replaceChildren
+111 replaceChildren
 000 requestStorageAccess
 000 routeEvent
 111 scripts
