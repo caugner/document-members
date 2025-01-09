@@ -1,23 +1,23 @@
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
 
 111 URL
 111 activeElement
 111 adoptNode
 000 adoptedStyleSheets
 111 alinkColor
-100 all
+111 all
 111 anchors
 111 append
 111 applets
 111 bgColor
 111 body
-100 captureEvents
+111 captureEvents
 111 caretPositionFromPoint
 000 caretRangeFromPoint
 111 characterSet
 111 childElementCount
 111 children
-100 clear
+111 clear
 111 close
 111 compatMode
 111 contentType
@@ -129,7 +129,7 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0
 111 referrer
 000 registerElement
 111 releaseCapture
-100 releaseEvents
+111 releaseEvents
 000 replaceChildren
 111 requestStorageAccess
 000 routeEvent
