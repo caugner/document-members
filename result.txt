@@ -1,11 +1,11 @@
-Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/103u (KHTML, like Gecko) Safari/100
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412 (KHTML, like Gecko) Safari/412
 
 100 URL
 000 activeElement
 000 adoptNode
 000 adoptedStyleSheets
 100 alinkColor
-100 all
+000 all
 100 anchors
 000 append
 100 applets
@@ -42,7 +42,7 @@ Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/103u (KHTML, like Gecko
 111 createTreeWalker
 000 currentScript
 111 defaultView
-000 designMode
+100 designMode
 100 dir
 111 doctype
 111 documentElement
@@ -51,11 +51,11 @@ Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/103u (KHTML, like Gecko
 100 domain
 000 elementFromPoint
 000 elementsFromPoint
-000 embeds
+100 embeds
 000 enableStyleSheetsForSet
 000 evaluate
 000 execCommandShowHelp
-000 execCommand
+111 execCommand
 000 exitFullscreen
 000 exitPictureInPicture
 000 exitPointerLock
@@ -97,12 +97,12 @@ Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/103u (KHTML, like Gecko
 000 normalizeDocument
 000 onafterscriptexecute
 000 onbeforescriptexecute
-000 oncopy
-000 oncut
+111 oncopy
+111 oncut
 000 onfreeze
 000 onfullscreenchange
 000 onfullscreenerror
-000 onpaste
+111 onpaste
 000 onpointerlockchange
 000 onpointerlockerror
 000 onreadystatechange
@@ -117,12 +117,12 @@ Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/103u (KHTML, like Gecko
 000 popupNode
 000 preferredStyleSheetSet
 000 prepend
-000 queryCommandEnabled
-000 queryCommandIndeterm
-000 queryCommandState
-000 queryCommandSupported
+111 queryCommandEnabled
+111 queryCommandIndeterm
+111 queryCommandState
+111 queryCommandSupported
 000 queryCommandText
-000 queryCommandValue
+111 queryCommandValue
 000 querySelectorAll
 000 querySelector
 111 readyState
