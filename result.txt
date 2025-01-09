@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:67.0) Gecko/20100101 Firefox/67.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0
 
 100 alinkColor
 100 all
@@ -6,7 +6,6 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:67.0) Gecko/20100101 Firefox/67.0
 100 captureEvents
 100 clear
 100 close
-100 cookie
 100 designMode
 100 domain
 100 execCommand
