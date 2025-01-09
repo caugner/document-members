@@ -1,0 +1,33 @@
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/103u (KHTML, like Gecko) Safari/100
+
+100 URL
+100 alinkColor
+100 all
+100 anchors
+100 applets
+100 bgColor
+100 body
+100 captureEvents
+100 clear
+100 close
+100 cookie
+100 dir
+100 domain
+100 fgColor
+100 forms
+100 getElementsByName
+100 height
+100 images
+100 lastModified
+100 linkColor
+100 links
+100 location
+100 open
+100 referrer
+100 releaseEvents
+100 scripts
+100 title
+100 vlinkColor
+100 width
+100 writeln
+100 write
