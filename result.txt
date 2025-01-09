@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36 OPR/19.0.1326.63
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36 OPR/20.0.1387.64
 
 111 URL
 100 activeElement
@@ -81,7 +81,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.
 000 hasStorageAccess
 111 head
 000 height
-000 hidden
+111 hidden
 111 images
 111 implementation
 111 importNode
@@ -127,7 +127,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.
 111 querySelectorAll
 111 readyState
 111 referrer
-000 registerElement
+111 registerElement
 000 releaseCapture
 100 releaseEvents
 000 replaceChildren
@@ -141,7 +141,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.
 000 timeline
 111 title
 000 tooltipNode
-000 visibilityState
+111 visibilityState
 100 vlinkColor
 000 wasDiscarded
 000 width
