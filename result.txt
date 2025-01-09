@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36 OPR/23.0.1522.60
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36 OPR/24.0.1558.53
 
 111 URL
 111 activeElement
@@ -58,7 +58,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.
 000 execCommandShowHelp
 000 exitFullscreen
 000 exitPictureInPicture
-000 exitPointerLock
+111 exitPointerLock
 000 featurePolicy
 100 fgColor
 000 fileSize
@@ -113,7 +113,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.
 000 pictureInPictureElement
 000 pictureInPictureEnabled
 111 plugins
-000 pointerLockElement
+111 pointerLockElement
 000 popupNode
 000 preferredStyleSheetSet
 000 prepend
