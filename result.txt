@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36
 
 111 URL
 111 activeElement
@@ -99,14 +99,14 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 000 onbeforescriptexecute
 111 oncopy
 111 oncut
-000 onfreeze
+111 onfreeze
 000 onfullscreenchange
 000 onfullscreenerror
 111 onpaste
 111 onpointerlockchange
 111 onpointerlockerror
 111 onreadystatechange
-000 onresume
+111 onresume
 111 onvisibilitychange
 111 open
 111 origin
@@ -143,7 +143,7 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 000 tooltipNode
 111 visibilityState
 111 vlinkColor
-000 wasDiscarded
+111 wasDiscarded
 000 width
 111 write
 111 writeln
