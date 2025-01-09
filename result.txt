@@ -1,11 +1,11 @@
-Mozilla/5.0 (Windows NT 5.2; rv:23.0) Gecko/20100101 Firefox/23.0
+Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
 
 111 URL
 111 activeElement
 111 adoptNode
 000 adoptedStyleSheets
 100 alinkColor
-000 all
+100 all
 100 anchors
 000 append
 100 applets
