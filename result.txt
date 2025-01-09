@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
 
 111 URL
 000 activeElement
@@ -15,8 +15,8 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 caretPositionFromPoint
 111 caretRangeFromPoint
 111 characterSet
-000 childElementCount
-000 children
+111 childElementCount
+111 children
 100 clear
 100 close
 111 compatMode
@@ -29,7 +29,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 111 createDocumentFragment
 111 createElement
 111 createElementNS
-111 createEntityReference
+000 createEntityReference
 111 createEvent
 111 createExpression
 111 createNSResolver
@@ -40,7 +40,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 createTouch
 000 createTouchList
 111 createTreeWalker
-000 currentScript
+111 currentScript
 111 defaultView
 100 designMode
 100 dir
@@ -62,7 +62,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 featurePolicy
 100 fgColor
 000 fileSize
-000 firstElementChild
+111 firstElementChild
 000 fonts
 111 forms
 000 fragmentDirective
@@ -85,7 +85,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 111 images
 111 implementation
 111 importNode
-000 lastElementChild
+111 lastElementChild
 111 lastModified
 000 lastStyleSheetSet
 100 linkColor
