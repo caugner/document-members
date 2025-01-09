@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
 
 111 URL
 111 activeElement
@@ -58,7 +58,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
 000 execCommandShowHelp
 000 exitFullscreen
 000 exitPictureInPicture
-000 exitPointerLock
+111 exitPointerLock
 000 featurePolicy
 100 fgColor
 000 fileSize
@@ -103,8 +103,8 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
 000 onfullscreenchange
 000 onfullscreenerror
 111 onpaste
-000 onpointerlockchange
-000 onpointerlockerror
+111 onpointerlockchange
+111 onpointerlockerror
 111 onreadystatechange
 000 onresume
 000 onvisibilitychange
@@ -113,7 +113,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
 000 pictureInPictureElement
 000 pictureInPictureEnabled
 100 plugins
-000 pointerLockElement
+111 pointerLockElement
 000 popupNode
 111 preferredStyleSheetSet
 111 prepend
