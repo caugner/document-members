@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6
 
 100 URL
 111 activeElement
@@ -70,7 +70,7 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox
 000 fullscreenElement
 000 fullscreenEnabled
 000 getAnimations
-111 getBoxObjectFor
+000 getBoxObjectFor
 111 getElementById
 111 getElementsByClassName
 100 getElementsByName
@@ -125,7 +125,7 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox
 100 queryCommandValue
 111 querySelector
 111 querySelectorAll
-000 readyState
+111 readyState
 111 referrer
 000 registerElement
 000 releaseCapture
