@@ -1,38 +1,24 @@
-Opera/9.80 (Windows NT 5.2) Presto/2.12.388 Version/12.16
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36 OPR/15.0.1147.153
 
-100 URL
 100 activeElement
 100 alinkColor
 100 all
-100 anchors
-100 applets
 100 bgColor
-100 body
 100 captureEvents
 100 clear
 100 close
-100 compatMode
+100 designMode
 100 dir
-100 domain
 100 embeds
 100 fgColor
-100 forms
-100 getElementsByName
-100 head
-100 images
+100 hasFocus
+100 height
 100 linkColor
-100 links
-100 oncopy
-100 oncut
-100 onfullscreenchange
-100 onfullscreenerror
-100 onpaste
-100 onreadystatechange
 100 open
 100 plugins
 100 releaseEvents
 100 scripts
-100 title
 100 vlinkColor
+100 width
 100 write
 100 writeln
