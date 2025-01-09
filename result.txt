@@ -1,22 +1,15 @@
-Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36 OPR/20.0.1387.64
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36 OPR/23.0.1522.60
 
-100 activeElement
 100 alinkColor
 100 all
 100 bgColor
 100 captureEvents
 100 clear
 100 close
-100 designMode
-100 dir
-100 embeds
 100 fgColor
-100 hasFocus
 100 linkColor
 100 open
-100 plugins
 100 releaseEvents
-100 scripts
 100 vlinkColor
 100 write
 100 writeln
