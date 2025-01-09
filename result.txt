@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (Windows NT 5.2; rv:14.0) Gecko/20100101 Firefox/14.0.1
 
 100 URL
 111 activeElement
@@ -55,7 +55,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:13.0) Gecko/20100101 Firefox/13.0
 111 enableStyleSheetsForSet
 111 evaluate
 100 execCommand
-100 execCommandShowHelp
+000 execCommandShowHelp
 000 exitFullscreen
 000 exitPictureInPicture
 000 exitPointerLock
@@ -121,7 +121,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:13.0) Gecko/20100101 Firefox/13.0
 100 queryCommandIndeterm
 100 queryCommandState
 100 queryCommandSupported
-100 queryCommandText
+000 queryCommandText
 100 queryCommandValue
 111 querySelector
 111 querySelectorAll
