@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:25.0) Gecko/20100101 Firefox/25.0
+Mozilla/5.0 (Windows NT 5.2; rv:26.0) Gecko/20100101 Firefox/26.0
 
 111 URL
 111 activeElement
