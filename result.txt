@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363
 
 111 URL
 111 activeElement
@@ -8,7 +8,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 111 all
 111 anchors
 111 append
-000 applets
+111 applets
 111 bgColor
 111 body
 111 captureEvents
@@ -107,7 +107,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 111 onpointerlockerror
 111 onreadystatechange
 000 onresume
-000 onvisibilitychange
+111 onvisibilitychange
 111 open
 000 origin
 000 pictureInPictureElement
