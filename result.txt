@@ -1,9 +1,9 @@
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15
 
 111 URL
 111 activeElement
 111 adoptNode
-000 adoptedStyleSheets
+111 adoptedStyleSheets
 111 alinkColor
 111 all
 111 anchors
@@ -56,7 +56,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik
 111 evaluate
 111 execCommand
 000 execCommandShowHelp
-000 exitFullscreen
+111 exitFullscreen
 111 exitPictureInPicture
 111 exitPointerLock
 000 featurePolicy
@@ -66,9 +66,9 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik
 111 fonts
 111 forms
 000 fragmentDirective
-000 fullscreen
-000 fullscreenElement
-000 fullscreenEnabled
+111 fullscreen
+111 fullscreenElement
+111 fullscreenEnabled
 111 getAnimations
 000 getBoxObjectFor
 111 getElementById
@@ -100,8 +100,8 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik
 111 oncopy
 111 oncut
 000 onfreeze
-000 onfullscreenchange
-000 onfullscreenerror
+111 onfullscreenchange
+111 onfullscreenerror
 111 onpaste
 111 onpointerlockchange
 111 onpointerlockerror
