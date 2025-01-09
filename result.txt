@@ -1,4 +1,4 @@
-Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 5.2) Presto/2.12.388 Version/12.16
 
 100 URL
 100 activeElement
@@ -14,16 +14,19 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 100 compatMode
 100 dir
 100 domain
-100 elementFromPoint
 100 embeds
 100 fgColor
 100 forms
 100 getElementsByName
-100 getSelection
 100 head
 100 images
 100 linkColor
 100 links
+100 oncopy
+100 oncut
+100 onfullscreenchange
+100 onfullscreenerror
+100 onpaste
 100 onreadystatechange
 100 open
 100 plugins
