@@ -1,23 +1,23 @@
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36 OPR/50.0.2762.45
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36 OPR/51.0.2830.26
 
 111 URL
 111 activeElement
 111 adoptNode
 000 adoptedStyleSheets
-100 alinkColor
-100 all
+111 alinkColor
+111 all
 111 anchors
 111 append
 111 applets
-100 bgColor
+111 bgColor
 111 body
-100 captureEvents
+111 captureEvents
 000 caretPositionFromPoint
 111 caretRangeFromPoint
 111 characterSet
 111 childElementCount
 111 children
-100 clear
+111 clear
 111 close
 111 compatMode
 111 contentType
@@ -60,7 +60,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 000 exitPictureInPicture
 111 exitPointerLock
 000 featurePolicy
-100 fgColor
+111 fgColor
 000 fileSize
 111 firstElementChild
 111 fonts
@@ -88,7 +88,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 111 lastElementChild
 111 lastModified
 000 lastStyleSheetSet
-100 linkColor
+111 linkColor
 111 links
 000 loadOverlay
 111 location
@@ -129,7 +129,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 111 referrer
 111 registerElement
 000 releaseCapture
-100 releaseEvents
+111 releaseEvents
 000 replaceChildren
 000 requestStorageAccess
 000 routeEvent
@@ -142,7 +142,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 111 title
 000 tooltipNode
 111 visibilityState
-100 vlinkColor
+111 vlinkColor
 000 wasDiscarded
 000 width
 111 write
