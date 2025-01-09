@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0
 
 111 URL
 111 activeElement
@@ -78,7 +78,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
 111 getElementsByTagNameNS
 111 getSelection
 111 hasFocus
-000 hasStorageAccess
+111 hasStorageAccess
 111 head
 000 height
 111 hidden
@@ -131,7 +131,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
 111 releaseCapture
 100 releaseEvents
 000 replaceChildren
-000 requestStorageAccess
+111 requestStorageAccess
 000 routeEvent
 111 scripts
 111 scrollingElement
