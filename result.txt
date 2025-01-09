@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5
 
 100 URL
 111 activeElement
@@ -123,8 +123,8 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox
 100 queryCommandSupported
 100 queryCommandText
 100 queryCommandValue
-000 querySelector
-000 querySelectorAll
+111 querySelector
+111 querySelectorAll
 000 readyState
 111 referrer
 000 registerElement
