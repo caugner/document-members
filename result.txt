@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 
 111 URL
 111 activeElement
@@ -10,7 +10,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
 111 append
 100 applets
 100 bgColor
-100 body
+111 body
 100 captureEvents
 111 caretPositionFromPoint
 000 caretRangeFromPoint
