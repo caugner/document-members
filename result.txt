@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
 
 111 URL
 000 activeElement
@@ -19,7 +19,7 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7 (KHTML, like G
 000 children
 100 clear
 100 close
-100 compatMode
+111 compatMode
 000 contentType
 111 cookie
 111 createAttribute
