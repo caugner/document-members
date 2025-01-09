@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:19.0) Gecko/20100101 Firefox/19.0
+Mozilla/5.0 (Windows NT 5.2; rv:20.0) Gecko/20100101 Firefox/20.0
 
 111 URL
 111 activeElement
@@ -12,7 +12,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:19.0) Gecko/20100101 Firefox/19.0
 100 bgColor
 100 body
 100 captureEvents
-000 caretPositionFromPoint
+111 caretPositionFromPoint
 000 caretRangeFromPoint
 111 characterSet
 000 childElementCount
