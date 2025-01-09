@@ -1,9 +1,9 @@
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
 
 111 URL
 111 activeElement
 111 adoptNode
-000 adoptedStyleSheets
+111 adoptedStyleSheets
 111 alinkColor
 111 all
 111 anchors
