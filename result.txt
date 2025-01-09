@@ -1,15 +1,2 @@
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
 
-100 alinkColor
-100 all
-100 bgColor
-100 captureEvents
-100 clear
-100 close
-100 fgColor
-100 linkColor
-100 open
-100 releaseEvents
-100 vlinkColor
-100 write
-100 writeln
