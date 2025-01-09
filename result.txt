@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
 
 111 URL
 111 activeElement
@@ -7,20 +7,20 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 111 alinkColor
 111 all
 111 anchors
-000 append
-111 applets
+111 append
+000 applets
 111 bgColor
 111 body
 111 captureEvents
 000 caretPositionFromPoint
 111 caretRangeFromPoint
 111 characterSet
-000 childElementCount
+111 childElementCount
 111 children
 111 clear
 111 close
 111 compatMode
-000 contentType
+111 contentType
 111 cookie
 111 createAttribute
 111 createAttributeNS
@@ -46,7 +46,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 111 dir
 111 doctype
 111 documentElement
-000 documentURI
+111 documentURI
 000 documentURIObject
 111 domain
 111 elementFromPoint
@@ -62,7 +62,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 000 featurePolicy
 111 fgColor
 000 fileSize
-000 firstElementChild
+111 firstElementChild
 000 fonts
 111 forms
 000 fragmentDirective
@@ -85,7 +85,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 111 images
 111 implementation
 111 importNode
-000 lastElementChild
+111 lastElementChild
 111 lastModified
 000 lastStyleSheetSet
 111 linkColor
@@ -97,12 +97,12 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 000 normalizeDocument
 000 onafterscriptexecute
 000 onbeforescriptexecute
-000 oncopy
-000 oncut
+111 oncopy
+111 oncut
 000 onfreeze
 000 onfullscreenchange
 000 onfullscreenerror
-000 onpaste
+111 onpaste
 111 onpointerlockchange
 111 onpointerlockerror
 111 onreadystatechange
@@ -116,7 +116,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 111 pointerLockElement
 000 popupNode
 000 preferredStyleSheetSet
-000 prepend
+111 prepend
 111 queryCommandEnabled
 111 queryCommandIndeterm
 111 queryCommandState
@@ -147,6 +147,6 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 000 width
 111 write
 111 writeln
-111 xmlEncoding
-111 xmlStandalone
-111 xmlVersion
+000 xmlEncoding
+000 xmlStandalone
+000 xmlVersion
