@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:7.0) Gecko/20100101 Firefox/7.0
+Mozilla/5.0 (Windows NT 5.2; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
 
 100 URL
 111 activeElement
@@ -93,7 +93,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:7.0) Gecko/20100101 Firefox/7.0
 000 loadOverlay
 111 location
 111 mozSetImageElement
-000 mozSyntheticDocument
+111 mozSyntheticDocument
 000 normalizeDocument
 000 onafterscriptexecute
 000 onbeforescriptexecute
