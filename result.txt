@@ -1,6 +1,5 @@
-Mozilla/5.0 (Windows NT 5.2; rv:18.0) Gecko/20100101 Firefox/18.0
+Mozilla/5.0 (Windows NT 5.2; rv:19.0) Gecko/20100101 Firefox/19.0
 
-100 URL
 100 alinkColor
 100 anchors
 100 applets
@@ -9,7 +8,6 @@ Mozilla/5.0 (Windows NT 5.2; rv:18.0) Gecko/20100101 Firefox/18.0
 100 captureEvents
 100 clear
 100 close
-100 compatMode
 100 cookie
 100 designMode
 100 domain
