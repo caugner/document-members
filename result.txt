@@ -1,7 +1,7 @@
-Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412 (KHTML, like Gecko) Safari/412
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/523.12 (KHTML, like Gecko) Version/3.0.4 Safari/523.12
 
-100 URL
 100 alinkColor
+100 all
 100 anchors
 100 applets
 100 bgColor
@@ -12,7 +12,7 @@ Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412 (KHTML, like Gecko)
 100 cookie
 100 designMode
 100 dir
-100 domain
+110 domain
 100 embeds
 100 fgColor
 100 forms
@@ -24,11 +24,12 @@ Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412 (KHTML, like Gecko)
 100 links
 100 location
 100 open
-100 referrer
+100 plugins
+110 referrer
 100 releaseEvents
 100 scripts
-100 title
+110 title
 100 vlinkColor
 100 width
-100 writeln
 100 write
+100 writeln
