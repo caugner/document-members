@@ -1,4 +1,4 @@
-Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 5.2) Presto/2.12.388 Version/12.16
 
 100 URL
 100 activeElement
@@ -20,7 +20,7 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 100 clear
 100 close
 100 compatMode
-000 contentType
+111 contentType
 111 cookie
 111 createAttribute
 111 createAttributeNS
@@ -49,14 +49,14 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 111 documentURI
 000 documentURIObject
 100 domain
-100 elementFromPoint
+111 elementFromPoint
 000 elementsFromPoint
 100 embeds
 000 enableStyleSheetsForSet
 111 evaluate
 111 execCommand
 000 execCommandShowHelp
-000 exitFullscreen
+111 exitFullscreen
 000 exitPictureInPicture
 000 exitPointerLock
 000 featurePolicy
@@ -67,8 +67,8 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 100 forms
 000 fragmentDirective
 000 fullscreen
-000 fullscreenElement
-000 fullscreenEnabled
+111 fullscreenElement
+111 fullscreenEnabled
 000 getAnimations
 000 getBoxObjectFor
 111 getElementById
@@ -76,12 +76,12 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 100 getElementsByName
 111 getElementsByTagName
 111 getElementsByTagNameNS
-100 getSelection
+111 getSelection
 000 hasFocus
 000 hasStorageAccess
 100 head
 000 height
-000 hidden
+111 hidden
 100 images
 111 implementation
 111 importNode
@@ -97,12 +97,12 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 000 normalizeDocument
 000 onafterscriptexecute
 000 onbeforescriptexecute
-000 oncopy
-000 oncut
+100 oncopy
+100 oncut
 000 onfreeze
-000 onfullscreenchange
-000 onfullscreenerror
-000 onpaste
+100 onfullscreenchange
+100 onfullscreenerror
+100 onpaste
 000 onpointerlockchange
 000 onpointerlockerror
 100 onreadystatechange
@@ -141,7 +141,7 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 000 timeline
 100 title
 000 tooltipNode
-000 visibilityState
+111 visibilityState
 100 vlinkColor
 000 wasDiscarded
 000 width
