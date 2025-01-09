@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
 
 111 URL
 111 activeElement
@@ -20,7 +20,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 100 clear
 100 close
 111 compatMode
-000 contentType
+111 contentType
 111 cookie
 111 createAttribute
 111 createAttributeNS
@@ -42,8 +42,8 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 111 createTreeWalker
 111 currentScript
 111 defaultView
-100 designMode
-100 dir
+111 designMode
+111 dir
 111 doctype
 111 documentElement
 111 documentURI
@@ -51,7 +51,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 111 domain
 111 elementFromPoint
 000 elementsFromPoint
-100 embeds
+111 embeds
 000 enableStyleSheetsForSet
 111 evaluate
 111 execCommand
@@ -103,8 +103,8 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 onfullscreenchange
 000 onfullscreenerror
 111 onpaste
-000 onpointerlockchange
-000 onpointerlockerror
+111 onpointerlockchange
+111 onpointerlockerror
 111 onreadystatechange
 000 onresume
 000 onvisibilitychange
@@ -112,7 +112,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 origin
 000 pictureInPictureElement
 000 pictureInPictureEnabled
-100 plugins
+111 plugins
 000 pointerLockElement
 000 popupNode
 000 preferredStyleSheetSet
@@ -133,7 +133,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 replaceChildren
 000 requestStorageAccess
 000 routeEvent
-100 scripts
+111 scripts
 000 scrollingElement
 000 selectedStyleSheetSet
 000 styleSheetSets
