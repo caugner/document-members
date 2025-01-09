@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+Mozilla/5.0 (Windows NT 5.2; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
 
 100 URL
 111 activeElement
@@ -95,17 +95,17 @@ Mozilla/5.0 (Windows NT 5.2; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
 111 mozSetImageElement
 111 mozSyntheticDocument
 000 normalizeDocument
-000 onafterscriptexecute
-000 onbeforescriptexecute
-000 oncopy
-000 oncut
+111 onafterscriptexecute
+111 onbeforescriptexecute
+111 oncopy
+111 oncut
 000 onfreeze
 000 onfullscreenchange
 000 onfullscreenerror
-000 onpaste
+111 onpaste
 000 onpointerlockchange
 000 onpointerlockerror
-000 onreadystatechange
+111 onreadystatechange
 000 onresume
 000 onvisibilitychange
 100 open
@@ -133,7 +133,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
 000 replaceChildren
 000 requestStorageAccess
 100 routeEvent
-000 scripts
+100 scripts
 000 scrollingElement
 111 selectedStyleSheetSet
 111 styleSheetSets
