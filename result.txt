@@ -1,4 +1,4 @@
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/601.7.8
 
 111 URL
 111 activeElement
@@ -15,12 +15,12 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like
 000 caretPositionFromPoint
 111 caretRangeFromPoint
 111 characterSet
-000 childElementCount
-000 children
+111 childElementCount
+111 children
 100 clear
 100 close
 111 compatMode
-000 contentType
+111 contentType
 111 cookie
 111 createAttribute
 111 createAttributeNS
@@ -62,7 +62,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like
 000 featurePolicy
 100 fgColor
 000 fileSize
-000 firstElementChild
+111 firstElementChild
 000 fonts
 111 forms
 000 fragmentDirective
@@ -85,7 +85,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like
 111 images
 111 implementation
 111 importNode
-000 lastElementChild
+111 lastElementChild
 111 lastModified
 000 lastStyleSheetSet
 100 linkColor
@@ -134,7 +134,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like
 000 requestStorageAccess
 000 routeEvent
 100 scripts
-000 scrollingElement
+111 scrollingElement
 000 selectedStyleSheetSet
 000 styleSheetSets
 111 styleSheets
