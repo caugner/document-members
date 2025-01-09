@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
+Mozilla/5.0 (Windows NT 5.2; rv:25.0) Gecko/20100101 Firefox/25.0
 
 111 URL
 111 activeElement
@@ -15,8 +15,8 @@ Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
 111 caretPositionFromPoint
 000 caretRangeFromPoint
 111 characterSet
-000 childElementCount
-000 children
+111 childElementCount
+111 children
 100 clear
 100 close
 111 compatMode
@@ -62,7 +62,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
 000 featurePolicy
 100 fgColor
 000 fileSize
-000 firstElementChild
+111 firstElementChild
 000 fonts
 100 forms
 000 fragmentDirective
@@ -85,7 +85,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
 100 images
 111 implementation
 111 importNode
-000 lastElementChild
+111 lastElementChild
 111 lastModified
 111 lastStyleSheetSet
 100 linkColor
@@ -132,7 +132,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
 100 releaseEvents
 000 replaceChildren
 000 requestStorageAccess
-100 routeEvent
+000 routeEvent
 100 scripts
 000 scrollingElement
 111 selectedStyleSheetSet
