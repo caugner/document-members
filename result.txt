@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36 OPR/29.0.1795.47
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36 OPR/30.0.1835.59
 
 111 URL
 111 activeElement
@@ -50,7 +50,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.
 000 documentURIObject
 111 domain
 111 elementFromPoint
-000 elementsFromPoint
+111 elementsFromPoint
 111 embeds
 000 enableStyleSheetsForSet
 111 evaluate
