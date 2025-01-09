@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 5.2; rv:18.0) Gecko/20100101 Firefox/18.0
 
 100 URL
 111 activeElement
@@ -81,7 +81,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
 000 hasStorageAccess
 100 head
 000 height
-000 hidden
+111 hidden
 100 images
 111 implementation
 111 importNode
@@ -141,7 +141,7 @@ Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
 000 timeline
 111 title
 000 tooltipNode
-000 visibilityState
+111 visibilityState
 100 vlinkColor
 000 wasDiscarded
 000 width
