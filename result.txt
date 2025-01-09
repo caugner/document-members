@@ -1,2 +1,33 @@
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko
+Opera/9.80 (Windows NT 5.2; U; en) Presto/2.6.30 Version/10.63
 
+100 URL
+100 activeElement
+100 alinkColor
+100 all
+100 anchors
+100 applets
+100 bgColor
+100 body
+100 captureEvents
+100 clear
+100 close
+100 compatMode
+100 dir
+100 domain
+100 elementFromPoint
+100 embeds
+100 fgColor
+100 forms
+100 getElementsByName
+100 getSelection
+100 images
+100 linkColor
+100 links
+100 open
+100 plugins
+100 releaseEvents
+100 scripts
+100 title
+100 vlinkColor
+100 write
+100 writeln
