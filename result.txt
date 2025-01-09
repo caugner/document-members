@@ -1,4 +1,4 @@
-Opera/9.80 (Windows NT 5.2; U; en) Presto/2.6.30 Version/10.63
+Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.62
 
 100 URL
 100 activeElement
@@ -79,7 +79,7 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.6.30 Version/10.63
 100 getSelection
 000 hasFocus
 000 hasStorageAccess
-000 head
+100 head
 000 height
 000 hidden
 100 images
@@ -105,7 +105,7 @@ Opera/9.80 (Windows NT 5.2; U; en) Presto/2.6.30 Version/10.63
 000 onpaste
 000 onpointerlockchange
 000 onpointerlockerror
-000 onreadystatechange
+100 onreadystatechange
 000 onresume
 000 onvisibilitychange
 100 open
