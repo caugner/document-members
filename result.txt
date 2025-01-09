@@ -1,11 +1,2 @@
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36 OPR/50.0.2762.45
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36 OPR/51.0.2830.26
 
-100 alinkColor
-100 all
-100 bgColor
-100 captureEvents
-100 clear
-100 fgColor
-100 linkColor
-100 releaseEvents
-100 vlinkColor
