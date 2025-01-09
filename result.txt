@@ -1,9 +1,7 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:61.0) Gecko/20100101 Firefox/61.0
 
 100 alinkColor
 100 all
-100 anchors
-100 applets
 100 bgColor
 100 captureEvents
 100 clear
@@ -11,23 +9,16 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
 100 cookie
 100 designMode
 100 domain
-100 embeds
 100 execCommand
 100 fgColor
-100 forms
-100 head
-100 images
 100 linkColor
-100 links
 100 open
-100 plugins
 100 queryCommandEnabled
 100 queryCommandIndeterm
 100 queryCommandState
 100 queryCommandSupported
 100 queryCommandValue
 100 releaseEvents
-100 scripts
 100 vlinkColor
 100 write
 100 writeln
