@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 
 111 URL
 111 activeElement
@@ -69,7 +69,7 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
 111 fullscreen
 111 fullscreenElement
 111 fullscreenEnabled
-000 getAnimations
+111 getAnimations
 000 getBoxObjectFor
 111 getElementById
 111 getElementsByClassName
@@ -138,7 +138,7 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
 111 selectedStyleSheetSet
 111 styleSheetSets
 111 styleSheets
-000 timeline
+111 timeline
 111 title
 000 tooltipNode
 111 visibilityState
