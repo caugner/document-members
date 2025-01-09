@@ -1,0 +1,23 @@
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.59 Safari/525.19
+
+100 alinkColor
+100 all
+100 bgColor
+100 captureEvents
+100 clear
+100 close
+100 compatMode
+100 designMode
+100 dir
+100 embeds
+100 fgColor
+100 height
+100 linkColor
+100 open
+100 plugins
+100 releaseEvents
+100 scripts
+100 vlinkColor
+100 width
+100 write
+100 writeln
