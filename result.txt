@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0
 
 100 alinkColor
 100 all
@@ -17,7 +17,6 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
 100 fgColor
 100 forms
 100 getElementsByName
-100 getSelection
 100 head
 100 images
 100 linkColor
