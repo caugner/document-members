@@ -1,4 +1,4 @@
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko) Version/5.1.5 Safari/534.55.3
 
 111 URL
 100 activeElement
@@ -19,7 +19,7 @@ Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/533.21.1 (K
 000 children
 100 clear
 100 close
-100 compatMode
+111 compatMode
 000 contentType
 111 cookie
 111 createAttribute
@@ -105,7 +105,7 @@ Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/533.21.1 (K
 111 onpaste
 000 onpointerlockchange
 000 onpointerlockerror
-000 onreadystatechange
+111 onreadystatechange
 000 onresume
 000 onvisibilitychange
 100 open
