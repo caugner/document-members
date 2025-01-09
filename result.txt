@@ -1,4 +1,4 @@
-Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36 OPR/31.0.1889.99
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 OPR/32.0.1948.25
 
 111 URL
 111 activeElement
@@ -18,7 +18,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.
 111 childElementCount
 111 children
 100 clear
-100 close
+111 close
 111 compatMode
 111 contentType
 111 cookie
@@ -108,7 +108,7 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.
 111 onreadystatechange
 000 onresume
 000 onvisibilitychange
-100 open
+111 open
 111 origin
 000 pictureInPictureElement
 000 pictureInPictureEnabled
@@ -145,8 +145,8 @@ Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.
 100 vlinkColor
 000 wasDiscarded
 000 width
-100 write
-100 writeln
+111 write
+111 writeln
 111 xmlEncoding
 111 xmlStandalone
 111 xmlVersion
