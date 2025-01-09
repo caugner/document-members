@@ -1,7 +1,7 @@
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
 
 111 URL
-000 activeElement
+111 activeElement
 111 adoptNode
 000 adoptedStyleSheets
 100 alinkColor
@@ -23,7 +23,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 000 contentType
 111 cookie
 111 createAttribute
-111 createAttributeNS
+000 createAttributeNS
 111 createCDATASection
 111 createComment
 111 createDocumentFragment
@@ -76,8 +76,8 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 111 getElementsByName
 111 getElementsByTagName
 111 getElementsByTagNameNS
-000 getSelection
-000 hasFocus
+111 getSelection
+111 hasFocus
 000 hasStorageAccess
 111 head
 000 height
