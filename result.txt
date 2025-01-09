@@ -1,24 +1,24 @@
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
 
 111 URL
 111 activeElement
 111 adoptNode
 000 adoptedStyleSheets
-100 alinkColor
-100 all
+111 alinkColor
+111 all
 111 anchors
 111 append
 111 applets
-100 bgColor
+111 bgColor
 111 body
-100 captureEvents
+111 captureEvents
 000 caretPositionFromPoint
 111 caretRangeFromPoint
 111 characterSet
 111 childElementCount
 111 children
-100 clear
-100 close
+111 clear
+111 close
 111 compatMode
 111 contentType
 111 cookie
@@ -50,7 +50,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like
 000 documentURIObject
 111 domain
 111 elementFromPoint
-000 elementsFromPoint
+111 elementsFromPoint
 111 embeds
 000 enableStyleSheetsForSet
 111 evaluate
@@ -60,7 +60,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like
 000 exitPictureInPicture
 111 exitPointerLock
 000 featurePolicy
-100 fgColor
+111 fgColor
 000 fileSize
 111 firstElementChild
 111 fonts
@@ -69,7 +69,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like
 000 fullscreen
 000 fullscreenElement
 000 fullscreenEnabled
-111 getAnimations
+000 getAnimations
 000 getBoxObjectFor
 111 getElementById
 111 getElementsByClassName
@@ -78,7 +78,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like
 111 getElementsByTagNameNS
 111 getSelection
 111 hasFocus
-000 hasStorageAccess
+111 hasStorageAccess
 111 head
 000 height
 111 hidden
@@ -88,7 +88,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like
 111 lastElementChild
 111 lastModified
 000 lastStyleSheetSet
-100 linkColor
+111 linkColor
 111 links
 000 loadOverlay
 111 location
@@ -108,7 +108,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like
 111 onreadystatechange
 000 onresume
 111 onvisibilitychange
-100 open
+111 open
 111 origin
 000 pictureInPictureElement
 000 pictureInPictureEnabled
@@ -129,24 +129,24 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like
 111 referrer
 000 registerElement
 000 releaseCapture
-100 releaseEvents
+111 releaseEvents
 000 replaceChildren
-000 requestStorageAccess
+111 requestStorageAccess
 000 routeEvent
 111 scripts
 111 scrollingElement
 000 selectedStyleSheetSet
 000 styleSheetSets
 111 styleSheets
-111 timeline
+000 timeline
 111 title
 000 tooltipNode
 111 visibilityState
-100 vlinkColor
+111 vlinkColor
 000 wasDiscarded
 000 width
-100 write
-100 writeln
+111 write
+111 writeln
 111 xmlEncoding
 111 xmlStandalone
 111 xmlVersion
